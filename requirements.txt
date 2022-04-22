@@ -17,7 +17,7 @@ Pillow==7.0.0
 post==2019.4.13
 public==2019.4.13
 pylint==2.4.4
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 query-string==2019.4.13
 request==2019.4.13
 requests==2.23.0
